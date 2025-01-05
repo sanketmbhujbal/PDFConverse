@@ -5,3 +5,4 @@ faiss-cpu
 pypdf2 
 python-dotenv
 langchain_community
+tiktoken
