@@ -6,7 +6,7 @@ from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain.chains.question_answering import load_qa_chain
 from langchain.prompts import PromptTemplate
-from langchain_community.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 
 # Load environment variables
