@@ -5,5 +5,5 @@ faiss-cpu
 pypdf2 
 python-dotenv
 langchain_community
-langchain-openai
+langchain_openai
 tiktoken
