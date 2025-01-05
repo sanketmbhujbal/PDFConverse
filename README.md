@@ -1,6 +1,8 @@
 # PDFConverse
 PDFConverse- A Multi-RAG Chatbot for PDF Interaction
 
+https://pdfconvers.streamlit.app/
+
 This project implements a web application that allows users to interact with PDF documents using a conversational AI chatbot. Built with Streamlit, Langchain, FAISS, and OpenAI (or similar models), the system provides detailed answers to user queries by retrieving relevant information from uploaded PDFs.
 
 The core functionality includes:
